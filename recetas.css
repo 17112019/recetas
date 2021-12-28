@@ -1,8 +1,9 @@
 #titulo {
-color: purple; 
+color: blue; 
 font-size: 80px;
 text-align: center;
 font-family: italic, Tahoma, Verdana;  
+background-color: gold;
 }
 
 .tabla {
