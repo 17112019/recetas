@@ -9,4 +9,19 @@
     color: saddlebrown; 
     font-size: 40px;
     font-family: arial, Tahoma, Verdana;    
+    font-style: italic;
+}
+
+.texto {
+    color: black; 
+    font-size: 30px;
+    font-family: arial, Tahoma, Verdana; 
+    
+}
+
+img {
+    position: static;
+    float: right; 
+    width:600px;
+    border-radius: 20px;
 }
