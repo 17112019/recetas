@@ -1,5 +1,14 @@
 #titulo {
-color: blue; 
+color: purple; 
 font-size: 80px;
-text -: center;
+text-align: center;
+font-family: italic, Tahoma, Verdana;  
+}
+
+.tabla {
+color: darkmagenta; 
+font-size: 40px;
+text-align: center;
+font-family: oblique, Tahoma, Verdana;
+
 }
