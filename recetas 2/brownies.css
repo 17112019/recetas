@@ -23,5 +23,9 @@ img {
     position: static;
     float: right; 
     width:600px;
-    border-radius: 20px;
+    border-radius: 50px;
+}
+
+body {
+    background-color: moccasin;
 }
