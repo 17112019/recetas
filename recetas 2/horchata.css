@@ -1,14 +1,16 @@
 #titulo {
-    color: darkturquoise; 
+    color: rgb(22, 188, 190); 
     font-size: 80px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
-    box-shadow: 20px 14px 12px;
+    background-color: rgb(61, 53, 180);
+    border-style: double;
+
     }
 
     img {
         position:static;
-        box-shadow: 20px 14px 12px;
+        box-shadow: 12px 10px 8px;
         border-radius: 50px;
         width: 700px;
         margin-left: auto;
@@ -33,29 +35,36 @@
     }
     body {
         background-color: rgb(181, 225, 255);
-        margin: 70px;
+        margin: 90px;
+        margin-bottom: 80px;
     }
 
     #izquierda {
        
-        color: darkorchid;
-        display: block;
-        width: 600px;
+        color: rgb(79, 39, 97);
+        width: 400px;
         float: left;
+        padding: 5px;
+    
     }
 
     #derecha {
 
        
-        color: darkorchid;
-        display: block;
+        color: rgb(50, 65, 204);
         float: right;
         width: 600px;
+        padding: 10px;
     }
 
 #derecha , #izquierda {
 
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    text-align: justify;
+    box-shadow: 16px 12px 10px 15px;
+    margin-bottom: 60px;
+    margin-top: 60px; 
+    display: block;
 
 }
