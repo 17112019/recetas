@@ -34,3 +34,28 @@
     body {
         background-color: rgb(181, 225, 255);
         margin: 70px;
+    }
+
+    #izquierda {
+       
+        color: darkorchid;
+        display: block;
+        width: 600px;
+        float: left;
+    }
+
+    #derecha {
+
+       
+        color: darkorchid;
+        display: block;
+        float: right;
+        width: 600px;
+    }
+
+#derecha , #izquierda {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
